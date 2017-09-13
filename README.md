@@ -39,3 +39,5 @@ A Linux based desktop assistant using Machine Learning and Natural Language Proc
 Note: If the application doesn't run as expected, check the terminal for any error messages. We run the application with a clean install without any additional installations and debugging. Try and solve the error, as we currently do not have the resources to test the application on different environments. If the error still persists, open a new issue or contact me on my email.
 
 Contact: aseemraina1996@gmail.com
+
+**The entire list of commands that our application can handle for now can be found in the /data folder**
