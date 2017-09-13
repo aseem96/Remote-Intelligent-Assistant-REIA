@@ -20,7 +20,8 @@ A Linux based desktop assistant using Machine Learning and Natural Language Proc
 1. We have added the dependencies in a requirements.txt file. You can install the same by running   
    pip3 install -r requirements.txt
 2. Download Stanford POS Tagger from https://nlp.stanford.edu/software/tagger.shtml. Extract the contents to the ~/Downloads
-   folder. You can extract it in any directory, but please be sure to modify the 'tagger' parameters appropriately.
+   folder (You can extract it in any directory). Be sure to modify the 'tagger' parameters appropriately in the config    
+   file. 
 3. Make sure your system has Java installed. If not proceed as give in the link:
    https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
 4. **Open the src/reia.py file, and change the path on line line 97 (cmd, sed) to reflect the path on your own system.**
