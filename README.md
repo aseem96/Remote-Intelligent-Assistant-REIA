@@ -46,7 +46,7 @@ Since our application allows communication through natural language, it will als
 
 Note: If the application doesn't run as expected, check the terminal for any error messages. We run the application with a clean install without any additional installations and debugging. Try and solve the error, as we currently do not have the resources to test the application on different environments. If the error still persists, open a new issue or contact me on my email.
 
-Contact: 
+Contact:   
 aseemraina1996@gmail.com  
 shah.maanav.07@gmail.com
 
