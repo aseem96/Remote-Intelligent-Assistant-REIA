@@ -10,6 +10,9 @@ The proposed methodology is Remote Intelligent Assistant that is a Linux based d
 
 Remote Intelligent Assistant (REIA) is an abstract natural language interface to Linux systems. REIA provides an easy reliable solution that allows the user to access the remote machine using natural language, without compromising on user’s privacy. REIA also allows the user to communicate with the remote machine and control it virtually from anywhere in the world. It can handle multiple users simultaneously. REIA is accessible through desktop as well as mobile. It provides an interface for text input and can be extended to speech input as well. The extensibility of this application has led to huge applicability. Since our application allows communication through natural language, it will also enable even novice Linux users to interact with the system without any prior knowledge of terminal commands. Additionally, the application will easily automate the task of Linux server administrators. 
 
+
+**For more description of Project: https://www.quora.com/What-is-your-favorite-coding-project-you-have-done/answer/Aseem-Raina-2?srid=JRQg**
+
 #### Environment
 1. Linux based system
 2. Python3
@@ -45,6 +48,8 @@ Remote Intelligent Assistant (REIA) is an abstract natural language interface to
 
 Note: If the application doesn't run as expected, check the terminal for any error messages. We run the application with a clean install without any additional installations and debugging. Try and solve the error, as we currently do not have the resources to test the application on different environments. If the error still persists, open a new issue or contact me on my email.
 
-Contact: shah.maanav.07@gmail.com
+Contact: 
+aseemraina1996@gmail.com
+shah.maanav.07@gmail.com
 
 **The entire list of commands that our application can handle for now can be found in the /data folder**
