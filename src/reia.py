@@ -93,7 +93,7 @@ def suggestions(suggest_list):
 	return suggest
 
 def consume_message():
-	cmd = "sed -i -e \"1d\" /home/aseem/REIA/mqueue.txt"
+	cmd = "sed -i -e \"1d\" /home/maanav/REIA/mqueue.txt"
 	proc = subprocess.Popen([cmd], stdout=subprocess.PIPE, shell=True)  	
 	(out, err) = proc.communicate()
 
@@ -101,7 +101,7 @@ def call_reia():
 	while(True):
 		max_score = 0.1
 		map_val = ""
-		with open('/home/aseem/REIA/mqueue.txt', 'r') as f:
+		with open('/home/maanav/REIA/mqueue.txt', 'r') as f:
 			first_line = f.readline()
 			while first_line == "":
 				time.sleep(1)
